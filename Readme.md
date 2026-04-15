@@ -42,12 +42,9 @@ Input Image → Patch Embedding → Transformer Encoder → MLP Head → Cancer 
 ---
 
 ## Dataset
-The model is trained and evaluated on publicly available medical imaging datasets such as:
+The model is trained and evaluated on publicly available medical imaging dataset:
 - **TCGA (The Cancer Genome Atlas)**
-- **ISIC Archive** (Skin Cancer)
-- **LUNA16** (Lung Cancer)
-- **BreakHis** (Breast Cancer Histopathology)
-
+- 
 > **Note:** Ensure you comply with the dataset's terms of use and patient privacy regulations (e.g., HIPAA, GDPR) before using any medical data.
 
 ---
